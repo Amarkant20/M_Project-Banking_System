@@ -2,16 +2,18 @@
 ![Screenshot (237)](https://user-images.githubusercontent.com/63456917/161224554-b5519541-6310-498c-8c92-7365fd2bf4d3.png)
 
 ## It asks for Choice of user
-![Screenshot (127)](https://user-images.githubusercontent.com/65857693/132501249-ed9c6117-df18-4dff-9bfb-00b69b968604.png)
+![Screenshot (238)](https://user-images.githubusercontent.com/63456917/161225105-bb10f4ea-a356-4a54-b9f2-9e0bac409fcf.png)
 ## If user enters 1 then it asks details to open new account
 
-![Screenshot (128)](https://user-images.githubusercontent.com/65857693/132500927-909ebe43-6edb-414c-8db9-6119a534e320.png)
-## If user enters 2 as existing User then he gets following Actions
-![Screenshot (129)](https://user-images.githubusercontent.com/65857693/132500964-fe737389-78e6-4b16-b61c-6294547d5d80.png)
+![Screenshot (239)](https://user-images.githubusercontent.com/63456917/161225236-9170b676-3be6-4f93-bf01-1f3b172dd093.png)
+## If user enters 2 as Already existing User then he gets following Actions
+![Screenshot (240)](https://user-images.githubusercontent.com/63456917/161225336-58cf9303-6b6a-4691-93dd-e0a6b346eda8.png)
 ## Depositing amount
-![Screenshot (130)](https://user-images.githubusercontent.com/65857693/132500983-f5a9fe7f-b2e7-4f60-bbb2-2e34e9e533df.png)
+![Screenshot (241)](https://user-images.githubusercontent.com/63456917/161225507-0d2d3541-5dd4-4c8b-8de1-235354dc2b95.png)
 ## Withrawing Amount
-![Screenshot (131)](https://user-images.githubusercontent.com/65857693/132500998-6943c481-63df-4e50-8eb6-69c859d6535c.png)
+![Screenshot (242)](https://user-images.githubusercontent.com/63456917/161225604-7f69c8aa-d18e-44ed-a9c4-ea6cf49c6fe6.png)
+## Viewig Details
+![Screenshot (243)](https://user-images.githubusercontent.com/63456917/161225740-46e0a030-89e9-4cb9-b898-ac1602fdb7a5.png)
 ## Foreign Exchange
-![Screenshot (132)](https://user-images.githubusercontent.com/65857693/132501006-ad309e57-970b-4264-801a-c2140b9f82ae.png)
+![Screenshot (244)](https://user-images.githubusercontent.com/63456917/161225822-836ed517-89ba-4e9f-95ca-94f99f7f7cf9.png)
 

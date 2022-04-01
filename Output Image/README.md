@@ -1,5 +1,5 @@
 ## First output after running makefile
-![Screenshot (237).png](https://user-images.githubusercontent.com/65857693/132501214-d15d4715-b482-40e6-bd45-90e4f3d45959.png)
+![Screenshot (237)](https://user-images.githubusercontent.com/63456917/161224554-b5519541-6310-498c-8c92-7365fd2bf4d3.png)
 
 ## It asks for Choice of user
 ![Screenshot (127)](https://user-images.githubusercontent.com/65857693/132501249-ed9c6117-df18-4dff-9bfb-00b69b968604.png)

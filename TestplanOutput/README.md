@@ -8,7 +8,7 @@
 |  HLR2       |Deposit Amount|2000 |Your current available bank balance is 4000|Your current available bank balance is 4000|Requirement based|
 |  HLR3       |withdraw Amount|4500| Sorry, You dont have enough money in your account| Sorry, You dont have enough money in your account| Requirement based  |
 |  HHR4       |Entering Password| abcdef|Wrong Password|Wrong Password|Boundary based    |
-|  HHR4       |Entering Password| aMARlnt|password match|password match|Boundary based    |
+|  HHR4       |Entering Password| amarlnt|password match|password match|Boundary based    |
 
 ## Table no: Low level test plan
 

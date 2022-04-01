@@ -1,26 +1,12 @@
-# stepin_Bank-Management
+# BANKING SYSTEM
 Mini project using c language
 
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f11e6c56d25c4d418e88626c29c6ee60)](https://www.codacy.com/gh/ankitakondagoli/stepin_Bank-Management/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ankitakondagoli/stepin_Bank-Management&amp;utm_campaign=Badge_Grade)
+# SDLC Activity Based Learning
 
-![Code incpector](https://www.code-inspector.com/project/28048/score/svg)
-
-![Code incpector](https://www.code-inspector.com/project/28048/status/svg)
-
-![](https://img.shields.io/github/issues/ankitakondagoli/stepin_Bank-Management?style=flat-square)
-
-[![CI](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/main.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/main.yml)
-
-[![Valgrind](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/Valgrind.yml)
-
-[![C/C++ CI](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/c-build.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/c-build.yml)
-
-[![Git Inspector](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/gitinspector.yml)
-
-[![Unit Testing](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/unit-test.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/unit-test.yml)
-
-[![Code Quality-Cppcheck](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ankitakondagoli/stepin_Bank-Management/actions/workflows/cppcheck.yml)
+Build | Code Quality | Unity | [Git Inspector](using github.io option) | Codacy Badge |
+------|----------|-------|--------------|-----------|
+[![C/C++ CI](https://github.com/jayanthbonagiri/Stepin-PhoneBook_Manager/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/jayanthbonagiri/Stepin-PhoneBook_Manager/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/jayanthbonagiri/Stepin-PhoneBook_Manager/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/jayanthbonagiri/Stepin-PhoneBook_Manager/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/jayanthbonagiri/Stepin-PhoneBook_Manager/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/jayanthbonagiri/Stepin-PhoneBook_Manager/actions/workflows/CodeQuality_Dynamic.yml) [![Code Coverage](https://github.com/jayanthbonagiri/Stepin-PhoneBook_Manager/actions/workflows/gcov.yml/badge.svg)](https://github.com/jayanthbonagiri/Stepin-PhoneBook_Manager/actions/workflows/gcov.yml) | [![Unity - Unit Testing](https://github.com/jayanthbonagiri/Stepin-PhoneBook_Manager/actions/workflows/unity.yml/badge.svg)](https://github.com/jayanthbonagiri/Stepin-PhoneBook_Manager/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/jayanthbonagiri/Stepin-PhoneBook_Manager/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/jayanthbonagiri/Stepin-PhoneBook_Manager/actions/workflows/gitinspector.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a5b0a93577704f22b8424c6fa71b19dc)](https://www.codacy.com/gh/jayanthbonagiri/Stepin-PhoneBook_Manager/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jayanthbonagiri/Stepin-PhoneBook_Manager&amp;utm_campaign=Badge_Grade)
 
 ## Folder	Description
  Folder Name | Description

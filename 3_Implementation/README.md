@@ -8,7 +8,7 @@ Folder        | description
 `test`        | All source code and data for testing purposes
 `unity`        | All source code which are required for unit testing
 `makefie`        | makefile of the project
-`Project_main.c`        | main source code 
+`main1.c`        | main source code 
 
 
 
